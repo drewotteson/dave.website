@@ -8,6 +8,8 @@ h1 {
     letter-spacing: 2px;
 }
 #awesomeText { font-family:; }
+.link { font-size: 22px; }
+.space { word-spacing: 10px; }
 .soft { color:blue; }
 .center { text-align: center ; }
 .container { margin: 0 auto; }
@@ -15,6 +17,6 @@ h1 {
 .border {border:5px black solid;}
 .pad10 {padding:10px ;}
 .textborder {border:5px black solid;}
-.lblue {background-color: #adeded;}
+.lblue {background-color: #dc143c;}
 .photo-table {border: black solid 1px;}
 table, tr, td {border: 2.5px solid black;}
