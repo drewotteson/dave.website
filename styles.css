@@ -1,0 +1,20 @@
+p { 
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 115%;
+}
+h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 300%;
+    letter-spacing: 2px;
+}
+#awesomeText { font-family:; }
+.soft { color:blue; }
+.center { text-align: center ; }
+.container { margin: 0 auto; }
+.grey {background-color: #dc143c}
+.border {border:5px black solid;}
+.pad10 {padding:10px ;}
+.textborder {border:5px black solid;}
+.lblue {background-color: #adeded;}
+.photo-table {border: black solid 1px;}
+table, tr, td {border: 2.5px solid black;}
